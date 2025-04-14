@@ -8,7 +8,8 @@
 - CNN.rmd: code for final CNN with results
 
 # Time Series
-- 
+- air_pollution.csv: csv file of dataset
+- Time_Series.ipynb: code for final models with results
 
 # app.R
 - shiny website code
